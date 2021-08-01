@@ -1,0 +1,56 @@
+.logo {
+    height: 60px;
+    padding-left: 20px;
+}
+
+body {
+    margin: 0;
+    /* background-image: url(/images/bg.jpg); */
+    background-color: #cccccc;
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+
+.logo-text {
+    text-decoration: none;
+    color: black;
+    font-size: 22px;
+}
+
+.menu {
+    display: block;
+}
+
+li {
+    padding: 40px;
+    display: inline;
+    font-size: 22px;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    /* background-color: blue; */
+}
+
+.button {
+    background-color: black;
+    color: white;
+    height: 36px;
+    width: 140px;
+}
+
+.heading {
+    font-size: 50px;
+}
+
+.content {
+    text-align: center;
+}
+
+.image {
+    width: 320px;
+    height: 230px;
+    border-radius: 20px;
+}
